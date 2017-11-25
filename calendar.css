@@ -1,0 +1,31 @@
+.calendar
+{
+	margin-right:auto;
+	margin-left:auto;
+    width:80%;
+}
+td:hover
+{
+    background-color:yellow;
+}    
+.Xday, .Xday:hover
+{
+    background-color:#99badd;
+}
+.assigned
+{
+    color:green;
+}
+.due
+{
+    color:red;
+}
+td
+{
+    vertical-align:top;
+    height:5em;
+}
+th
+{
+    height:1.5em;
+}
